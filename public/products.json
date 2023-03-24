@@ -1,0 +1,183 @@
+{
+    "fragrancias": [
+        {"nombre": "Rosas", "precio": 90},
+        {"nombre": "Fresa", "precio": 90},
+        {"nombre": "H & S azul", "precio": 140},
+        {"nombre": "H & S rojo", "precio": 140},
+        {"nombre": "H & S savital", "precio": 140},
+        {"nombre": "H & S caida", "precio": 140},
+        {"nombre": "H & S chochoascse", "precio": 140},
+        {"nombre": "Fruto rojo", "precio": 90},
+        {"nombre": "Manzana", "precio": 80},
+        {"nombre": "Mandarina", "precio": 90},
+        {"nombre": "Manzana canela", "precio": 90},
+        {"nombre": "Algodón suave", "precio": 90},
+        {"nombre": "Almendra", "precio": 90},
+        {"nombre": "Amalia", "precio": 180},
+        {"nombre": "Antitabaco", "precio": 90},
+        {"nombre": "Brisa marina", "precio": 90},
+        {"nombre": "Avena", "precio": 90},
+        {"nombre": "Baby america", "precio": 80},
+        {"nombre": "Baby soft", "precio": 90},
+        {"nombre": "Baby talcum", "precio": 90},
+        {"nombre": "Bosque bamboo", "precio": 90},
+        {"nombre": "Bouquet cristal", "precio": 80},
+        {"nombre": "Bouquet flower", "precio": 120},
+        {"nombre": "Bouquet talco", "precio": 120},
+        {"nombre": "Bloom paradise", "precio": 120},
+        {"nombre": "Campos lavanda", "precio": 80},
+        {"nombre": "Candy drops", "precio": 120},
+        {"nombre": "Canela", "precio": 80},
+        {"nombre": "Chanel 5", "precio": 100},
+        {"nombre": "Chicle", "precio": 110},
+        {"nombre": "Clavo de olor", "precio": 140},
+        {"nombre": "Coco pasión", "precio": 80},
+        {"nombre": "Coco solo", "precio": 80},
+        {"nombre": "Herbal", "precio": 90},
+        {"nombre": "Drakar", "precio": 120},
+        {"nombre": "New car", "precio": 90},
+        {"nombre": "Draky", "precio": 90},
+        {"nombre": "Durazno yogurth", "precio": 90},
+        {"nombre": "Eucalipto", "precio": 280},
+        {"nombre": "Floral", "precio": 80},
+        {"nombre": "Frutos rojos", "precio": 100},
+        {"nombre": "Gardenia", "precio": 90},
+        {"nombre": "Heno de pravia", "precio": 100},
+        {"nombre": "Hidro pino", "precio": 180},
+        {"nombre": "Hierba luisa", "precio": 100},
+        {"nombre": "Jazmín", "precio": 100},
+        {"nombre": "Lavanda aromática", "precio": 120},
+        {"nombre": "Lavanda aromática", "precio": 120},
+        {
+            "nombre": "Lavanda aromática",
+            "precio": 120
+          },
+          {
+            "nombre": "Lavanda fresh",
+            "precio": 100
+          },
+          {
+            "nombre": "Lavanda dúo",
+            "precio": 90
+          },
+          {
+            "nombre": "Lavanda time",
+            "precio": 90
+          },
+          {
+            "nombre": "Limon americano",
+            "precio": 90
+          },
+          {
+            "nombre": "Limon eco",
+            "precio": 80
+          },
+          {
+            "nombre": "Limon en acción",
+            "precio": 90
+          },
+          {
+            "nombre": "Magnolia",
+            "precio": 90
+          },
+          {
+            "nombre": "Maracuya",
+            "precio": 90
+          },
+          {
+            "nombre": "Manzanilla",
+            "precio": 100
+          },
+          {
+            "nombre": "Melon",
+            "precio": 100
+          },
+          {
+            "nombre": "Menta",
+            "precio": 80
+          },
+          {
+            "nombre": "Mr Robinson",
+            "precio": 90
+          },
+          {
+            "nombre": "Naranja Limon",
+            "precio": 90
+          },
+          {
+            "nombre": "Orquídea Madagascar",
+            "precio": 140
+          },
+          {
+            "nombre": "Paco rabanne",
+            "precio": 120
+          },
+          {
+            "nombre": "Pantene",
+            "precio": 140
+          },
+          {
+            "nombre": "Passion fruit",
+            "precio": 90
+          },
+          {
+            "nombre": "Poeta primavera",
+            "precio": 90
+          },
+          {
+            "nombre": "Poet for you",
+            "precio": 90
+          },
+          {
+            "nombre": "Poison garden",
+            "precio": 90
+          },
+          {
+            "nombre": "Primavera",
+            "precio": 100
+          },
+          {
+            "nombre": "SandalWood",
+            "precio": 100
+          },
+          {
+            "nombre": "Soffly",
+            "precio": 80
+          },
+          {
+            "nombre": "Soft violet",
+            "precio": 90
+          },
+          {
+            "nombre": "Seducción",
+            "precio": 120
+          },
+          {
+            "nombre": "Spring fresh",
+            "precio": 120
+          },
+          {
+            "nombre": "Tuti fruti",
+            "precio": 80
+          },
+          {
+            "nombre": "Vainilla",
+            "precio": 90
+          },
+          {
+            "nombre": "Violeta New",
+            "precio": 80
+          },
+          {
+            "nombre": "Xampiez",
+            "precio": 90
+          },
+          {
+            "nombre": "Xoco axe",
+            "precio": 140
+          }
+    ],
+    "colorantes": [
+        
+    ]
+}
