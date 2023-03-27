@@ -176,5 +176,55 @@
             "nombre": "Xoco axe",
             "precio": 140
           }
+    ],
+    "colorantes":  [
+      {
+        "nombre": "Violeta",
+        "precio": 160
+      },
+      {
+        "nombre": "Verde fosforescente",
+        "precio": 470
+      },
+      {
+        "nombre": "Verde mente",
+        "precio": 90
+      },
+      {
+        "nombre": "Verde perico",
+        "precio": 100
+      },
+      {
+        "nombre": "Champagne",
+        "precio": 100
+      },
+      {
+        "nombre": "Rojo pulso",
+        "precio": 90
+      },
+      {
+        "nombre": "Rojo amaranto",
+        "precio": 90
+      },
+      {
+        "nombre": "Naranja",
+        "precio": 90
+      },
+      {
+        "nombre": "Amarillo",
+        "precio": 90
+      },
+      {
+        "nombre": "Rosado",
+        "precio": 200
+      },
+      {
+        "nombre": "Azul brillante",
+        "precio": 180
+      },
+      {
+        "nombre": "Nigrocina",
+        "precio": 120
+      }
     ]
 }
