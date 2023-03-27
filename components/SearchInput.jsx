@@ -1,14 +1,24 @@
-'use client'
-export default function SearchInput() {
+import { useState } from 'react'
+
+export default function SearchInput({onSearch}) {
+
+    const [searchText, setSearchText] = useState('');
 
     const handleSubmit = (e) => {
         e.preventDefault();
+    }
+
+    const handleSearch = (e) => {
+        const text = e.target.value;
+        setSearchText(text);
+        onSearch(text);
     }
 
     return(
         <form className="flex items-center w-11/12 rounded-3xl bg-red-500 px-3 max-w-3xl" onSubmit={handleSubmit}>
             <input 
             type="text" 
+            onChange={handleSearch}
             className="flex-1 px-1 py-4 outline-none text-white focus:outline-none bg-transparent placeholder-white text-2xl font-medium"
             placeholder="Buscar..." />
             <button className="rounded-full bg-white w-9 h-9 cursor-pointer" type="submit">
